@@ -1,5 +1,8 @@
 _repo: Mohlon-Acrylic-Fiber-B22-Easy-to-make-Fashions-KnitCrochet_61315
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61315-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61315#Mohlon-Acrylic-Fiber-B22-Easy-to-make-Fashions-KnitCrochet
 gutenberg_issued: '2020-02-04'
 gutenberg_type: Text
 identifiers:
